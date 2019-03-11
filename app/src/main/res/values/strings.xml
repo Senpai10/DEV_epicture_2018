@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_upload">Upload</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_profil">Profil</string>
+    <string name="btn_log">Sign in</string>
+    <string name="btn_search">Search</string>
+
+    <string name="btn_chooseImage">Choose an image</string>
+    <string name="btn_uploadImage">Upload to Imgur</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

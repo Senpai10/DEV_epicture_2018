@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DDDDCE</color>
+    <color name="colorPrimaryDark">#3f51b5</color>
+    <color name="colorAccent">#25AE6E</color>
+    <color name="back_animate_base">#06492b</color>
+    <color name="back">#141519</color>
+    <color name="frame">#34373C</color>
+    <color name="button">#25AE6E</color>
+    <color name="button2">#5C67FD</color>
+    <color name="text">#DDDDCE</color>
+
+    <color name="primary">#607D8B</color>
+
+    <color name="purple_500">#9C27b0</color>
+    <color name="deep_purple_500">#673aB7</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="light_blue_500">#03a9f4</color>
+</resources>
